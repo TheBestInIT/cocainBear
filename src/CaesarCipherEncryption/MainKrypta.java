@@ -19,7 +19,7 @@ import javax.swing.*;
  * 5. ще тут не має багатьох провірок на null тому подібне інколи в консоль може виводитися
  *    помилка але вона нічим не заважає
  *      щераз вибачте :)
- */
+ */  //     0_o
 public class MainKrypta {
     Alphabet alphabet = new Alphabet();
     public static void main(String[] args) {
